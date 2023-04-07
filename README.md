@@ -1,6 +1,5 @@
 # Sprint_3.
 
-
 Предстоит протестировать API учебного сервиса Яндекс.Самокат. 
 Его документация: qa-scooter.praktikum-services.ru/docs/.
 
